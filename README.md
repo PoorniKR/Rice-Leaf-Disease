@@ -37,18 +37,26 @@ Rice crops are susceptible to several diseases that affect crop health and reduc
 ### Prerequisites
 
 - Python 3.8 or later
-- TensorFlow 2.9 or later
+- TensorFlow 2.15 or later
 - OpenCV
 - NumPy
 - scikit-learn
 - Matplotlib
-- TensorFlow Addons
 - Transformers (HuggingFace)
 
 ### Installation Steps
 
 ```bash
-git clone https://github.com/PoorniKR/rice-leaf-disease-detection.git
-cd rice-leaf-disease-detection
+git clone https://github.com/PoorniKR/Rice-Leaf-Disease.git
+cd Rice-Leaf-Disease
 pip install -r requirements.txt
+```
+
+## Results
+
+- Achieved 94.41% classification accuracy on the test set.
+- Grad-CAM outputs highlight infected regions, which are clustered to estimate severity.
+- The system can handle difficult classes like Tungro and Neck Blast with robust performance.
+
+
 
