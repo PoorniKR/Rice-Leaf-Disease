@@ -32,6 +32,12 @@ Rice crops are susceptible to several diseases that affect crop health and reduc
 - Rice Hispa
 - Neck Blast
 
+## Severity Classes
+
+- Mild
+- Moderate
+- Severe
+  
 ## Installation
 
 ### Prerequisites
@@ -58,5 +64,8 @@ pip install -r requirements.txt
 - Grad-CAM outputs highlight infected regions, which are clustered to estimate severity.
 - The system can handle difficult classes like Tungro and Neck Blast with robust performance.
 
+## Output
 
-
+![Output](1.png)
+![Output](2.png)
+![Output](3.png)
