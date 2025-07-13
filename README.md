@@ -66,6 +66,6 @@ pip install -r requirements.txt
 
 ## Output
 
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/6e0395d7-4984-44d8-a481-2463ef494fba" />
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/005bc943-2de1-41fb-bb3a-915ae6a34575" />
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/750897ef-56c2-4212-8939-59facfb68a81" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/005bc943-2de1-41fb-bb3a-915ae6a34575" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/6e0395d7-4984-44d8-a481-2463ef494fba" />
